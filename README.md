@@ -44,5 +44,5 @@ Ao final deve se exibir uma mensagem:
 
 ## ✒️ Autor
 
-**Rafael Rodrigues Pereira** - *Este projeto é um Desafio de Projeto da DIO* - [linkedIn](https://www.linkedin.com/in/rafaelrpereira/)
+**Rafael Rodrigues Pereira** - *Este projeto é um Desafio de Projeto da DIO* - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
 
